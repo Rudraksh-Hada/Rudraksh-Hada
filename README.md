@@ -1,6 +1,6 @@
 # Rudraksh Hada
 
-I am a 2nd-year B.Tech student specializing in AI & ML. I’m a developer who loves building impactful projects and solving complex problems.
+I am a 3rd-year B.Tech student specializing in AI & ML. I’m a developer who loves building impactful projects and solving complex problems.
 
 ---
 
